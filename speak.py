@@ -1,5 +1,5 @@
 import rich
-import playsound
+import playaudio
 import gtts
 import misc
 
